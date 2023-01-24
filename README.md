@@ -26,7 +26,9 @@ MIT
 
 ## Links
 
-GitHub Repo: 
+GitHub Repo: https://github.com/brachtco/note_taker
+
+Live URL: 
 
 
 
